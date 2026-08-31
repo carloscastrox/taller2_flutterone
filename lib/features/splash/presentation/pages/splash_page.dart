@@ -31,7 +31,7 @@ class _SplashPageState extends State<SplashPage> {
               image: DecorationImage(
                 // imagen assets
                 image: AssetImage(
-                  'wallpaper.jpg', // URL de tu imagen de fondo
+                  'assets/wallpaper.jpg', // URL de tu imagen de fondo
                 ),
                 fit: BoxFit.cover,
               ),
